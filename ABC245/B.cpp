@@ -1,5 +1,8 @@
-#include<bits/stdc++.h>
+#include<vector>
+#include<iostream>
+#include<cstdio>
 using namespace std;
+
 int mex,vi[2010],n;
 signed main(){
 	scanf("%d",&n);
